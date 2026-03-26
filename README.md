@@ -1,2 +1,17 @@
-# Projekt_Gr-2-_ADBM_DNA-Analiza-sekwencji_FP
-Analiza sekwencji DNA 26.03.2026
+# DNA Motif Analyzer
+
+## Funkcje
+- Wczytywanie FASTA
+- Wyszukiwanie motywów DNA
+- Wizualizacja rozmieszczenia
+- Eksport CSV
+- GUI (Tkinter)
+
+## Uruchomienie
+pip install -r requirements.txt
+python gui.py
+
+## Rozszerzenia
+- Pobieranie z NCBI
+- Analiza wielu motywów
+- PDF export
